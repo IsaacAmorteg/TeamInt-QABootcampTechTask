@@ -1,0 +1,15 @@
+/Users/isaacmacbookpro/Projects/TrianglesApp/TrianglesApp/bin/Debug/net7.0/TrianglesApp
+/Users/isaacmacbookpro/Projects/TrianglesApp/TrianglesApp/bin/Debug/net7.0/TrianglesApp.deps.json
+/Users/isaacmacbookpro/Projects/TrianglesApp/TrianglesApp/bin/Debug/net7.0/TrianglesApp.runtimeconfig.json
+/Users/isaacmacbookpro/Projects/TrianglesApp/TrianglesApp/bin/Debug/net7.0/TrianglesApp.dll
+/Users/isaacmacbookpro/Projects/TrianglesApp/TrianglesApp/bin/Debug/net7.0/TrianglesApp.pdb
+/Users/isaacmacbookpro/Projects/TrianglesApp/TrianglesApp/obj/Debug/net7.0/TrianglesApp.csproj.AssemblyReference.cache
+/Users/isaacmacbookpro/Projects/TrianglesApp/TrianglesApp/obj/Debug/net7.0/TrianglesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaacmacbookpro/Projects/TrianglesApp/TrianglesApp/obj/Debug/net7.0/TrianglesApp.AssemblyInfoInputs.cache
+/Users/isaacmacbookpro/Projects/TrianglesApp/TrianglesApp/obj/Debug/net7.0/TrianglesApp.AssemblyInfo.cs
+/Users/isaacmacbookpro/Projects/TrianglesApp/TrianglesApp/obj/Debug/net7.0/TrianglesApp.csproj.CoreCompileInputs.cache
+/Users/isaacmacbookpro/Projects/TrianglesApp/TrianglesApp/obj/Debug/net7.0/TrianglesApp.dll
+/Users/isaacmacbookpro/Projects/TrianglesApp/TrianglesApp/obj/Debug/net7.0/refint/TrianglesApp.dll
+/Users/isaacmacbookpro/Projects/TrianglesApp/TrianglesApp/obj/Debug/net7.0/TrianglesApp.pdb
+/Users/isaacmacbookpro/Projects/TrianglesApp/TrianglesApp/obj/Debug/net7.0/TrianglesApp.genruntimeconfig.cache
+/Users/isaacmacbookpro/Projects/TrianglesApp/TrianglesApp/obj/Debug/net7.0/ref/TrianglesApp.dll
