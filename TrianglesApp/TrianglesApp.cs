@@ -58,8 +58,17 @@ namespace TrianglesApp
                 Console.WriteLine("Triangle is NOT a right triangle.");
             }
 
+            double perimeter = Math.Round(lenghtSideA + lenghtSideB + lenghtSideC, 2);
+            Console.WriteLine("Perimeter: {0}", perimeter);
 
-
+            Console.WriteLine("Parity numbers in range from 0 to triangle perimeter: ");
+            for (int i = 0; i <= perimeter; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    Console.WriteLine(i);
+                }
+            }
 
             Console.ReadLine();
         }
